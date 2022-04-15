@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649802307 source:c:\users\m\desktop\challenge bootcamp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
